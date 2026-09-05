@@ -9,7 +9,7 @@ Create a new Railway service from the GitHub repository. Railway will use the in
 ## 3. Variables
 Copy `.env.example` values into Railway Variables.
 At minimum set:
-- `OWNER_NUMBER` = your WhatsApp number, digits only, with country code
+- `OWNER_NUMBER` =919382951134
 - `OWNER_NAME` = `𓆩⎯⃪꯭̽𝐑᪵͢𝐮᪳ᷱ𝚍֟ؖ۬𝐫σ𝆭•𝚵꯭̽𓆪᪴`
 - `BOT_NAME` = ` 𓆩⎯⃪꯭̽𝐑᪵͢𝐮᪳ᷱ𝚍֟ؖ۬𝐫σ𝆭•𝚵꯭̽ 𝐱 𝐦𝐝𓆪᪴`
 - `OFFTELEBOT` = `false`
